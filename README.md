@@ -8,4 +8,4 @@ This is the prototype of [our work](https://arxiv.org/abs/2105.08876). If you fi
           year={2021}
         }
 
-If you have any questions please feel free to contact me at tiantian3@student.unimelb.edu.au or yuexin.xiang@cug.edu.cn.
+If you have any questions please feel free to contact us at tiantian3@student.unimelb.edu.au or yuexin.xiang@cug.edu.cn.
