@@ -11,4 +11,4 @@ This is the prototype of [our work](https://doi.org/10.1016/j.engappai.2023.1071
           author = {Yuexin Xiang and Tiantian Li and Wei Ren and Tianqing Zhu and Kim-Kwang Raymond Choo}
         }
 
-If you have any questions please feel free to contact us at tiantian3@student.unimelb.edu.au or yuexin.xiang@cug.edu.cn.
+If you have any questions please feel free to contact us at yuexin.xiang@cug.edu.cn or tiantian3@student.unimelb.edu.au.
