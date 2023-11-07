@@ -11,4 +11,4 @@ This is the prototype of [our work](https://doi.org/10.1016/j.engappai.2023.1071
           publisher={Elsevier}
         }
 
-If you have any questions please feel free to contact us at yuexin.xiang@cug.edu.cn.
+If you have any questions please feel free to contact us at Yuexin.Xiang@monash.edu.
